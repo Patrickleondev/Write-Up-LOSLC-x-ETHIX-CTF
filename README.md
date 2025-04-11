@@ -1,4 +1,4 @@
-# Write-Up-LOSLC-x-ETHIX-CTF 
+# Writeups-LOSLC-x-ETHIX-CTF 
 
 ![Scoreboard](images/scoreboard.png)  
 ![Organisateurs](images/organisateurs.png)  

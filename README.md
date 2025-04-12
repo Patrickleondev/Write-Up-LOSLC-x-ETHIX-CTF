@@ -7,9 +7,7 @@
 
 ## ✨ À PROPOS DU CTF  
 
-🚀🔐 **À TOUS LES HACKERS EN HERBE, PASSIONNÉS DE TECH ET FUTURS EXPERTS EN CYBERSÉCURITÉ AU TOGO !** 🔐🚀  
-
-📢 **C’EST PARTI !** Le CTF tant attendu organisé par **LOSLC et ETHIX** s’est déroulé avec succès du **7 au 8 avril** pendant **24h non-stop** !  
+📢Le CTF tant attendu organisé par **LOSLC et ETHIX** s’est déroulé avec succès du **7 au 8 avril** pendant **24h non-stop** !  
 
 💻 Ce repository documente les solutions, réflexions et techniques utilisées pour résoudre les défis proposés durant cette compétition intense.  
 
